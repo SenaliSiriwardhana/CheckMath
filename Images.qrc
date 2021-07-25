@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/BackgroundImages">
+        <file>Img/BgImage.jpg</file>
+        <file>Img/buttonImage.jfif</file>
+        <file>Img/download (1).jfif</file>
+        <file>Img/form2Bg.jpg</file>
+        <file>Img/White.jfif</file>
+        <file>Img/form2backg.jpg</file>
+        <file>Img/Back.png</file>
+        <file>Img/redyellowbg.jfif</file>
+    </qresource>
+</RCC>
